@@ -3,6 +3,7 @@ body {
   color: #dddddd;
   font-family: Arial, Helvecta, comic-sans;
   margin: 10% 20%;
+  background-image: https://i.imgur.com/spQpPoL.jpg;
 }
 
 .exp-header {
@@ -10,5 +11,14 @@ body {
   text-transform: uppercase; 
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+  background-color: rgba(0,0,0, 0.1);
 }
+.name-header {
+  text-align: center;
+  text-transform: uppercase; 
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  background-color: rgba(0,100,300, 0.3);
+  
+    
+}   
