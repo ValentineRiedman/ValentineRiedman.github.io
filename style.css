@@ -16,12 +16,14 @@ body {
 .name-header {
   text-align: center;
   text-transform: uppercase; 
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
+  border-top: 5px solid #dddddd;
+  border-bottom: 5px solid #dddddd;
   background-color: rgba(0,200,300, 0.2);
-  margin: 10%
 }   
-.address {
+.footer {
   text-transform: uppercase;
   text-align: center;
+  border-top: 5px solid #dddddd;
+  border-bottom: 5px solid #dddddd;
+  background-color: rgba(0,200,300, 0.2);
 }
