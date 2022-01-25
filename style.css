@@ -11,6 +11,7 @@ body {
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0, 0.1);
+  margin: 3% 20%;
 }
 .name-header {
   text-align: center;
@@ -31,5 +32,5 @@ body {
   text-align: center;
   }
 .exp {
-  margin: 3% 20%;
+  margin: 1% 20%;
 }
