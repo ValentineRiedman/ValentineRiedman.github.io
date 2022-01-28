@@ -31,7 +31,7 @@ body {
 .img {
   text-align: center;
   }
-.img {
+.anitmate-pop {
   animation-duration: 0.5s;
   animation-name: animate-fade;
   animation-delay: 0.5s;
@@ -43,5 +43,6 @@ body {
   100% { opacity: 1; }
 }
 .exp {
+  
   margin: 1% 20%;
 }
