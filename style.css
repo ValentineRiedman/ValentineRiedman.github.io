@@ -1,7 +1,7 @@
 body {
   background-color: #444444;
   color: #dddddd;
-  font-family: Calibri, Helvecta, sans-serif;
+  font-family: Calibri, Helvecta, Sans-Serif;
   margin:
 }
 
@@ -31,17 +31,7 @@ body {
 .img {
   text-align: center;
   }
-.anitmate-pop {
-  animation-duration: 0.5s;
-  animation-name: animate-fade;
-  animation-delay: 0.5s;
-  animation-fill-mode: backwards;
-}
 
-@keyframes animate-fade {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
 .exp {
   
   margin: 1% 20%;
