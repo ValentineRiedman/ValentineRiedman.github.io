@@ -1,5 +1,5 @@
 body {
-  background-color: #444444;
+  background-color: #222222;
   color: #dddddd;
   font-family: Calibri, Helvecta, Sans-Serif;
   margin:
@@ -10,16 +10,18 @@ body {
   text-transform: uppercase; 
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1);
+  background-color: rgba(0,0,0, 0.3);
   margin: 3% 20%;
 }
+
 .name-header {
   text-align: center;
   text-transform: uppercase; 
   border-top: 5px solid #dddddd;
   border-bottom: 5px solid #dddddd;
   background-color: rgba(0,200,300, 0.2);
-}   
+}
+
 .footer {
   text-transform: uppercase;
   text-align: center;
@@ -33,6 +35,6 @@ body {
   }
 
 .exp {
-  
   margin: 1% 20%;
-}
+}  
+
