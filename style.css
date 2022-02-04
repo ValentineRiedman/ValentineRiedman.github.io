@@ -12,7 +12,7 @@ body {
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0, 0.7);
-  margin: 3% 20%;
+  margin: 10% 20%;
 }
 
 .name-header {
@@ -39,3 +39,15 @@ body {
   margin: 1% 20%;
   background-color: rgba(0,0,0, 0.5);
 }  
+.iframe {
+    width: 10%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+}
+.iframe2 {
+    width: 50%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: left;
+}
