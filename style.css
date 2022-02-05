@@ -72,3 +72,10 @@ body {
         width: 600px;
     }
 }
+/* For Mobile */
+@media screen and (max-width: 540px) {
+    .view {
+        width: 400px;
+    }
+}
+
