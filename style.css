@@ -2,7 +2,7 @@ body {
   background-image: url("https://www.ppt-backgrounds.net/thumbs/night-sky-free-stock-photo--public-domain-pictures-frame-templates.jpeg");
   background-color: ;
   color: #dddddd;
-  font-family: Calibri, Helvecta, Sans-Serif;
+  font-family: Calibri, Boxed, Futura;
   margin:
     
 }
@@ -13,7 +13,7 @@ body {
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0, 0.7);
-  margin: 6% 20% 0% 0%;
+  margin: 2% 20% 0% 20%;
  
 }
 
@@ -39,6 +39,7 @@ body {
   border-top: 5px solid #dddddd;
   border-bottom: 5px solid #dddddd;
   background-color: rgba(0,200,300, 0.7);
+  margin: 5% 0% 0 0%;
   
 }
 .img {
