@@ -3,7 +3,7 @@ body {
   background-color: ;
   color: #dddddd;
   font-family: Calibri, Boxed, Futura;
-  margin:
+  margin: 
     
 }
 
@@ -47,7 +47,6 @@ body {
 
 
 .iframe {
-  display: inline-block;
   padding-right: 15px;
   margin-right: 111px;
   margin-top: 200px;
@@ -55,7 +54,6 @@ body {
   
 }
 .aside2 {
-  display: inline-block;
   padding-right: 15px;
   margin-right: 111px;
   margin-top: 200px;
@@ -66,16 +64,5 @@ body {
   margin: 0% 20% 0% 20%;
   background-color: rgba(0,0,0, 0.2);
 }
-/* For Tablets */
-@media screen and (min-width: 540px) and (max-width: 780px) {
-    .view {
-        width: 600px;
-    }
-}
-/* For Mobile */
-@media screen and (max-width: 540px) {
-    .view {
-        width: 400px;
-    }
-}
+
 
